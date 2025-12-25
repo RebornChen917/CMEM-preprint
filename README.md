@@ -26,5 +26,17 @@ Readers seeking prediction, validation, or narrative coherence may find this fra
 
 Its purpose is not to answer questions, but to prevent the wrong ones from being asked.
 
+---
+
+### Author’s Structural Position
+
+The framework presented here implies that
+what is often described as “reincarnation”
+is a misinterpretation of system cyclicity.
+
+Cycles are conditional.
+Return paths can be depleted.
+No recurrence is guaranteed by form alone.
+
 ## License 
 The preprint is released under **CC BY 4.0** (see Zenodo record).
