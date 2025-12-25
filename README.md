@@ -10,5 +10,5 @@ This repository is a minimal landing page for the associated preprint.
 ## Abstract
 [Paste your abstract here — 5–10 lines.]
 
-## License
+## License 
 The preprint is released under **CC BY 4.0** (see Zenodo record).
