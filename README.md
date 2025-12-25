@@ -8,7 +8,7 @@ This repository is a minimal landing page for the associated preprint.
 - Citation: Chen, Ruotong. *Information Stabilization Across Multiversal and Civilizational Scales*. Zenodo, 2025. https://doi.org/10.5281/zenodo.18050678
 
 ## Abstract
-[Interface Statement
+Interface Statement
 
 This work presents a methodological framework for analyzing irreversibility, return-path exhaustion, and interface stability across complex systems.
 
@@ -24,7 +24,7 @@ This work is intended to be used as a diagnostic lens for system design, governa
 
 Readers seeking prediction, validation, or narrative coherence may find this framework intentionally unsatisfying.
 
-Its purpose is not to answer questions, but to prevent the wrong ones from being asked.]
+Its purpose is not to answer questions, but to prevent the wrong ones from being asked.
 
 ## License 
 The preprint is released under **CC BY 4.0** (see Zenodo record).
