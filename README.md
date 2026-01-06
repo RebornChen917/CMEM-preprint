@@ -44,26 +44,6 @@ The preprint is released under **CC BY 4.0** (see Zenodo record).
 
 _README.txt
 
-
-Canonical Diagnostic Statement
-
-σ − π ⇆ 3⁻²⁷  is not a transformation, but a stability boundary.
-
-Within a finite Δt, a system either maintains σ-dominant convergence
-or irreversibly expands into a 3⁻²⁷ regime.
-
-There is no intermediate stable state.
-
-——————————————————————
-
-Given Δt, stability is binary.
-σ − π implies convergence;
-3⁻²⁷ implies irreversible expansion.
-
-Time does not evolve systems — it decides whether reversibility survives.
-
-——————————————————————
-
 CMEM Structural Role Annotation(Canonical Role Tags)
 
 This note provides structural orientation within the CMEM framework for contextual understanding.
