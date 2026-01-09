@@ -42,6 +42,51 @@ No recurrence is guaranteed by form alone.
 The preprint is released under **CC BY 4.0** (see Zenodo record).
 
 
+Author’s Note
+
+I did not write these documents to explain the world,
+nor to correct existing theories, propose alternatives, or compete for coherence.
+
+These texts exist because, in many domains,
+explanation continues long after the interface has already failed.
+
+CMEM and its associated notes are not theories, models, or predictive systems.
+They are diagnostic records—written at the moment where interpretation should stop,
+but usually does not.
+
+I am not interested in answering “why” questions once structural admissibility has been lost.
+I am interested in identifying where systems cease to be interpretable,
+where optimization becomes noise,
+and where continuity is falsely assumed.
+
+Many of the expressions, symbols, and constructions used across these papers
+are intentionally non-operational.
+They are not unfinished formulas.
+They are finished boundaries.
+
+If a reader finds themselves trying to compute, extend, refute, or apply them,
+then the boundary has already been crossed—and the document has done its job.
+
+These writings do not ask to be believed.
+They ask only to be placed correctly.
+
+I make no claim that these documents are necessary.
+Only that they are precise.
+
+If they are useful, it is because a similar interface failure has already been encountered.
+If they are not, they may be safely ignored.
+
+Nothing here instructs action.
+Nothing here predicts outcomes.
+Nothing here promises understanding.
+
+They simply record where understanding ends.
+
+—
+Chen Ruotong
+
+_README_EN
+
 Citation & Use Notice
 
 (Mandatory Reading for Any Citation or Reference)
@@ -160,7 +205,7 @@ Observer–Observed Cancellation
 
 (Zero Is Not a Result.) — Environment Instantiations
 	•	System Engineering
-DOI: https://doi.org/10.5281/zenodo.18150431
+DOI: https://doi.org/10.5281/zenodo.18190732
 	•	Quantum Entanglement
 DOI: https://doi.org/10.5281/zenodo.18154888
 	•	Glacial Period
@@ -189,6 +234,61 @@ Role Tags
 Position
 Catalog of interface configurations that failed to stabilize.
 No evolutionary narrative assumed.
+
+⸻
+
+Temporal Exponent Sets as System Boundaries : A Non-Continuous Definition of Coherent Systems
+DOI: https://doi.org/10.5281/zenodo.18159081
+
+Role Tags
+	•	System Boundary Definition
+	•	Temporal Scaling Framework
+	•	Non-Continuous Coherence Theory
+
+Position
+This work defines coherent systems by discrete temporal exponent sets, treating system boundaries as non-continuous transitions in temporal tolerance rather than spatial extent or material composition.
+
+Terminal Interface Rules for Energy Folding and Propulsion Claims: A Structural Diagnosis of One-Shot Break, ∆t Folding, and Hard Energy Rupture
+
+DOI: https://doi.org/10.5281/zenodo.18171834
+
+Role Tags
+
+•	Terminal Interface Classification
+•	Energy–Time Constraint Diagnosis
+•	Non-Recoverable System Boundary
+
+Position
+This document records a terminal interface diagnosis.
+It proposes no mechanism and accepts no optimization discussion.
+
+———
+
+CMEM Structural Role Annotation — Boundary Patch
+
+Temporal Boundary Patch (TBP)
+
+(Placement: between Level 0 and Level 1)
+
+⸻
+
+Official Insert
+
+Temporal Boundary Patch — System Boundary Definition
+
+This patch introduces Temporal Exponent Sets as a boundary condition within the CMEM framework.
+
+Coherent systems are defined not by spatial scale, material composition, or continuity assumptions,
+but by discrete temporal tolerance thresholds expressed as exponent sets (e.g.,  Δt^3^-27, Δt^3^27).
+
+System transitions occur only at exponent-boundary crossings.
+Intermediate states are not treated as partially coherent systems.
+
+This patch bridges:
+	•	Level 0 (Stability Criterion) — what stability means, and
+	•	Level 1 (Runtime & Release Dynamics) — how instability unfolds in time.
+
+It provides a non-continuous boundary rule for determining when a system is inside, outside, or no longer a system.
 
 ⸻
 
@@ -366,3 +466,19 @@ Role Tags
 	•	Medical Diagnostic
 	•	Biological Failure
 	•	Energy-Dominant Intervention
+
+⸻
+
+System Boundaries as Interface Sets
+UI Freezing, Acceleration Events, and Non-Extinction Transitions: A CMEM–IFST Diagnostic Interpretation of the Dinosaur–Bird Transition
+
+DOI: https://doi.org/10.5281/zenodo.18181791
+
+Role Tags
+
+•	Interface-Based Boundary Theory
+•	Non-Teleological Evolutionary Diagnostics
+•	CMEM–IFST System Transition Analysis
+
+Position
+Biological transitions are treated as interface freezing events,driven by time-scale compression (Δt),rather than as extinction or replacement processes.
