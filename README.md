@@ -434,6 +434,14 @@ Role Tags
 
 Level 3 | Applied Diagnostics (Institutional & Biological)
 
+Short-Scale Trials, Long-Scale Systems: Why Mouse Models Cannot Certify Genome-Level Interface Interventions (CMEM–IFST Diagnostic Note)
+DOI: https://doi.org/10.5281/zenodo.18193981
+
+Role Tags
+•	Applied Biological Diagnostic
+•	Generational Boundary Mismatch
+•	Evidence Window Constraint
+
 ⸻
 
 Education, Fertility, Depression
