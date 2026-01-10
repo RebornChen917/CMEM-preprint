@@ -205,7 +205,7 @@ Observer–Observed Cancellation
 
 (Zero Is Not a Result.) — Environment Instantiations
 	•	System Engineering
-DOI: https://doi.org/10.5281/zenodo.18190732
+DOI: https://doi.org/10.5281/zenodo.18203508
 	•	Quantum Entanglement
 DOI: https://doi.org/10.5281/zenodo.18154888
 	•	Glacial Period
