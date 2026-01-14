@@ -204,12 +204,20 @@ Topology-first, not narrative-driven.
 Observer–Observed Cancellation
 
 (Zero Is Not a Result.) — Environment Instantiations
+	•	Δt: Interface-Admissible Time in CMEM
+DOI: https://doi.org/10.5281/zenodo.18217676
+	•	The Minimal Thermodynamic Interface Axiom Set under CMEM: A Non-Teleological Diagnostic Record
+DOI: https://doi.org/10.5281/zenodo.18218484
+	•	Redshift and Blueshift as Interface Reconciliation Effects: A CMEM Diagnostic No
+DOI: https://doi.org/10.5281/zenodo.18219741
 	•	System Engineering
 DOI: https://doi.org/10.5281/zenodo.18203508
 	•	Quantum Entanglement
 DOI: https://doi.org/10.5281/zenodo.18154888
 	•	Glacial Period
 DOI: https://doi.org/10.5281/zenodo.18152392
+	•	Systems Do Not Fail for Lack of Energy: Interface Overload and the Four-Degree Stability Limit
+DOI: https://doi.org/10.5281/zenodo.18237836
 
 Role Tags
 	•	Terminal Interface Condition
@@ -346,8 +354,7 @@ Maintains consistency across scales.
 
 RNA–RNB Dual-Chain Runtime Model
 
-DOI: https://doi.org/10.5281/zenodo.18145176
-
+DOI:https://doi.org/10.5281/zenodo.18194278
 Role Tags
 	•	Dual-Chain Runtime
 	•	Generation–Release Split
